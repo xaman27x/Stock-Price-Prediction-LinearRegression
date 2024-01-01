@@ -10,14 +10,14 @@ Let's dive into the code and uncover valuable insights into stock price movement
 
 ## Project Structure
 
-The project consists of a Python script (`stock_price_prediction.py`) that utilizes the `yfinance` library for fetching stock data and implements a Linear Regression model created in C to predict closing prices.
+The project consists of a Python script (`extract.py`) that utilizes the `yfinance` library for fetching stock data and implements a Linear Regression model created in C to predict closing prices.
 
 ## Usage
 
 To use the project:
 *------------------------------------------------------------------------------------------------------------------------------*
 |1. Clone the repository: https://github.com/xaman27x/Stock-Market-Analysis-Using-Linear-Regression-and-Pertaining-Effects.git |
-|2. Run the Python script: `python stock_price_prediction.py`                                                                  |
+|2. Run the Python script: `extract.py`                                                                  |
 |3. Follow the prompts to enter the stock code and other parameters.                                                           |
 *------------------------------------------------------------------------------------------------------------------------------*
 ## Dependencies
