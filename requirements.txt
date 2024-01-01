@@ -1,0 +1,9 @@
+# Requirements
+--> yfinance v0.1.63
+--> GNUPLOT v5.2.8 +
+This file specifies the required Python packages and their versions. You can use this file with the pip install -r requirements.txt command to install the necessary dependencies for your project. If you have additional dependencies, you can add them to this file with their corresponding versions.
+
+NOTE: Some Commands used within the extract.py file works only on LINUX/Unix Systems for System Calls. Feel free to modify them according to your system requirements and O.S. Also, the system will access the GNUPLOT to plot the chart for which it can require ROOT Access, i.e in Windows: Admin Access.
+
+HAPPY CODING 2024
+
